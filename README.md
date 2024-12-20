@@ -1,3 +1,5 @@
+**Evaluating Investment Strategies in the Stock-Market**
+---
 **Objective:** The project aims to compare different investment strategies, namely Buy and Hold and Momentum Trading, applied to a portfolio of stocks and the S&P 500 index. The goal is to identify the most profitable strategy.
 
 **Data:** Stock data from 2017 to 2021 was gathered for 30 stocks across three sectors (Consumer Staples, Healthcare, Communication Services) using the Yahoo Finance API. Additionally, S&P 500 data for 2022 was collected.
